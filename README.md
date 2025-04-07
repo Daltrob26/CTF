@@ -1,3 +1,8 @@
+# CTFD has built in export and import features so when starting up the project make sure to import the zip file.
+
+
+
+
 # ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true)
 
 ![CTFd MySQL CI](https://github.com/CTFd/CTFd/workflows/CTFd%20MySQL%20CI/badge.svg?branch=master)
